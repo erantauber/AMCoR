@@ -1,0 +1,262 @@
+Species	num
+'Acinonyx jubatus'	459273
+'Acomys cahirinus'	299879
+'Aeorestes cinereus'	468151
+'Aepyceros melampus'	389384
+'Ailuropoda melanoleuca'	452740
+'Ailurus fulgens styani'	445105
+'Alces alces'	461420
+'Allactaga bullata'	246051
+'Alouatta palliata'	321137
+'Ammotragus lervia'	469592
+'Anoura caudifer'	397703
+'Antidorcas marsupialis'	407948
+'Antilocapra americana'	463390
+'Aotus nancymaae'	371778
+'Aplodontia rufa'	276748
+'Arctocephalus gazella'	416062
+'Artibeus jamaicensis'	358782
+'Arvicanthis niloticus'	306169
+'Ateles geoffroyi'	316471
+'Balaenoptera musculus'	469732
+'Beatragus hunteri'	395543
+'Bos grunniens'	455163
+'Bos indicus'	446753
+'Bos mutus'	448567
+'Bos taurus'	470386
+'Callithrix jacchus'	361322
+'Callorhinus ursinus'	445608
+'Camelus bactrianus'	405214
+'Camelus dromedarius'	455692
+'Camelus ferus'	462133
+'Canis lupus dingo'	429030
+'Canis lupus familiaris'	413596
+'Capra aegagrus'	471804
+'Capra hircus'	471735
+'Capra ibex'	249406
+'Capra sibirica'	472284
+'Capreolus pygargus'	471202
+'Carlito syrichta'	337773
+'Castor canadensis'	286554
+'Catagonus wagneri'	504342
+'Cavia porcellus'	357552
+'Cavia tschudii'	347506
+'Cebus capucinus imitator'	371815
+'Cephalophus harveyi'	449178
+'Ceratotherium simum simum'	417362
+'Cercocebus atys'	378971
+'Cervus hanglu yarkandensis'	483555
+'Cheirogaleus medius'	391564
+'Chinchilla lanigera'	414905
+'Chlorocebus sabaeus'	375937
+'Choloepus hoffmanni'	386457
+'Colobus angolensis palliatus'	337707
+'Condylura cristata'	387885
+'Connochaetes taurinus'	441412
+'Cricetomys gambianus'	312273
+'Cricetulus griseus'	285474
+'Crocuta crocuta'	435508
+'Cryptoprocta ferox'	436963
+'Ctenodactylus gundi'	396345
+'Ctenomys sociabilis'	278972
+'Cynomys gunnisoni'	327305
+'Damaliscus lunatus'	450557
+'Dasyprocta punctata'	340340
+'Daubentonia madagascariensis'	358212
+'Delphinapterus leucas'	454569
+'Desmodus rotundus'	415474
+'Dicerorhinus sumatrensis sumatrensis'	420185
+'Diceros bicornis'	428997
+'Dinomys branickii'	358905
+'Dipodomys ordii'	346636
+'Dipodomys stephensi'	305595
+'Enhydra lutris kenyoni'	471988
+'Eonycteris spelaea'	430994
+'Equus asinus'	406490
+'Equus asinus asinus'	431337
+'Equus caballus'	441984
+'Equus przewalskii'	363508
+'Eschrichtius robustus'	418157
+'Eubalaena japonica'	391913
+'Eudorcas thomsonii'	437693
+'Eumetopias jubatus'	443445
+'Felis catus'	470815
+'Fukomys damarensis'	326599
+'Galeopterus variegatus'	356808
+'Giraffa tippelskirchi'	420551
+'Globicephala melas'	458126
+'Gorilla gorilla gorilla'	362782
+'Grammomys surdaster'	306657
+'Halichoerus grypus'	459443
+'Helogale parvula'	447575
+'Hemitragus hylocrius'	411014
+'Heterocephalus glaber'	362279
+'Heterohyrax brucei'	304568
+'Hippopotamus amphibius'	472724
+'Hipposideros armiger'	395126
+'Hipposideros galeritus'	322506
+'Hippotragus niger niger'	454446
+'Homo sapiens'	383245
+'Hyaena hyaena'	480599
+'Hydrochoerus hydrochaeris'	353450
+'Hydropotes inermis'	467980
+'Hylobates moloch'	376036
+'Hystrix cristata'	370204
+'Ictidomys tridecemlineatus'	314721
+'Lagenorhynchus obliquidens'	458476
+'Lama glama chaku'	455283
+'Lama guanicoe cacsilensis'	465226
+'Lasiurus borealis'	404120
+'Lemur catta'	405864
+'Lipotes vexillifer'	440581
+'Litocranius walleri'	446115
+'Lontra canadensis'	471405
+'Loxodonta africana'	352790
+'Lutra lutra'	466996
+'Lycaon pictus'	363249
+'Lynx canadensis'	459796
+'Lynx pardinus'	403205
+'Macaca fascicularis'	381495
+'Macaca fuscata fuscata'	308724
+'Macaca mulatta'	382564
+'Macaca nemestrina'	377297
+'Macroglossus sobrinus'	411682
+'Mandrillus leucophaeus'	332235
+'Manis javanica'	330611
+'Manis pentadactyla'	266200
+'Marmota flaviventris'	332445
+'Marmota himalayana'	313395
+'Marmota marmota marmota'	296741
+'Marmota monax'	321567
+'Martes zibellina'	480280
+'Mastomys coucha'	303856
+'Megaderma lyra'	393586
+'Mellivora capensis'	422109
+'Meriones unguiculatus'	350924
+'Microcebus murinus'	449477
+'Microcebus sp3GT2019'	362705
+'Microcebus tavaratra'	348908
+'Microgale talazaci'	415641
+'Micronycteris hirsuta'	421228
+'Microtus agrestis'	317250
+'Microtus arvalis'	303789
+'Microtus oeconomus'	323243
+'Miniopterus natalensis'	392432
+'Miniopterus schreibersii'	398620
+'Mirounga angustirostris'	389779
+'Mirounga leonina'	461588
+'Mirza zaza'	379033
+'Monodon monoceros'	453348
+'Mormoops blainvillei'	393271
+'Moschus berezovskii'	456881
+'Moschus moschiferus'	466597
+'Mungos mungo'	475131
+'Muntiacus muntjak'	486258
+'Muntiacus reevesi'	488404
+'Mus caroli'	327842
+'Mus musculus'	337331
+'Mus spicilegus'	324815
+'Muscardinus avellanarius'	422782
+'Mustela erminea'	476894
+'Mustela putorius'	457332
+'Mustela putorius furo'	383227
+'Myodes glareolus'	305195
+'Myotis lucifugus'	403606
+'Myrmecophaga tridactyla'	311172
+'Nannospalax galili'	276922
+'Nasalis larvatus'	287292
+'Neomonachus schauinslandi'	447172
+'Neophocaena asiaeorientalis asiaeorientalis'	435040
+'Neotragus moschatus'	374404
+'Neotragus pygmaeus'	340792
+'Neovison vison'	455773
+'Noctilio leporinus'	387859
+'Nomascus leucogenys'	379233
+'Ochotona princeps'	446681
+'Odobenus rosmarus divergens'	443021
+'Odocoileus hemionus hemionus'	450125
+'Odocoileus virginianus texanus'	459989
+'Okapia johnstoni'	414254
+'Ondatra zibethicus'	287910
+'Orcinus orca'	456720
+'Oreotragus oreotragus'	420710
+'Oryctolagus cuniculus cuniculus'	551814
+'Ovis ammon'	278535
+'Ovis aries'	473428
+'Ovis aries musimon'	471631
+'Ovis canadensis'	403058
+'Pan paniscus'	379761
+'Pan troglodytes'	381803
+'Panthera leo'	467349
+'Panthera onca'	416276
+'Panthera tigris altaica'	346612
+'Papio anubis'	372313
+'Paradoxurus hermaphroditus'	456716
+'Pedetes capensis'	355007
+'Peromyscus californicus insignis'	342125
+'Peromyscus eremicus'	314470
+'Peromyscus leucopus'	367806
+'Peromyscus maniculatus bairdii'	364958
+'Phoca vitulina'	469758
+'Phocoena phocoena'	418719
+'Phocoena sinus'	456531
+'Phyllostomus discolor'	496475
+'Physeter catodon'	448097
+'Piliocolobus tephrosceles'	371773
+'Pithecia pithecia'	326849
+'Plecturocebus donacophilus'	292979
+'Pongo abelii'	379322
+'Procavia capensis'	349575
+'Prolemur simus'	422898
+'Przewalskium albirostris'	462886
+'Psammomys obesus'	358420
+'Pteronura brasiliensis'	435754
+'Pteropus alecto'	402730
+'Pteropus giganteus'	424091
+'Pygathrix nemaeus'	318654
+'Rangifer tarandus'	433996
+'Rattus norvegicus'	337014
+'Rattus rattus'	343106
+'Redunca redunca'	348798
+'Rhinolophus ferrumequinum'	423539
+'Rhinopithecus bieti'	353292
+'Rhinopithecus roxellana'	371219
+'Rhizomys pruinosus'	301404
+'Rousettus aegyptiacus'	444358
+'Saguinus imperator'	315889
+'Saimiri boliviensis boliviensis'	354005
+'Sapajus apella'	373277
+'Scalopus aquaticus'	432918
+'Sciurus carolinensis'	349210
+'Sciurus vulgaris'	343688
+'Sigmodon hispidus'	239447
+'Solenodon paradoxus'	416740
+'Solenodon paradoxus woodi'	384920
+'Sousa chinensis'	449799
+'Spermophilus dauricus'	263762
+'Suricata suricatta'	457657
+'Sus scrofa'	473215
+'Syncerus caffer'	466233
+'Tapirus indicus'	393821
+'Tapirus terrestris'	388311
+'Taxidea taxus jeffersonii'	341273
+'Theropithecus gelada'	378324
+'Tonatia saurophila'	425031
+'Trachypithecus francoisi'	371459
+'Tragelaphus strepsiceros'	402258
+'Tragulus javanicus'	532883
+'Trichechus manatus latirostris'	373847
+'Tursiops aduncus'	450819
+'Tursiops truncatus'	460037
+'Urocitellus parryii'	326994
+'Uropsilus gracilis'	291228
+'Ursus arctos horribilis'	485077
+'Ursus maritimus'	376806
+'Ursus thibetanus thibetanus'	482924
+'Vicugna pacos'	422874
+'Vicugna pacos huacaya'	432045
+'Vicugna vicugna mensalis'	465420
+'Vulpes lagopus'	375848
+'Vulpes vulpes'	392678
+'Xerus inauris'	279394
+'Zalophus californianus'	446233
